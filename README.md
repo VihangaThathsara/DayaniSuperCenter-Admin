@@ -173,19 +173,14 @@ This dashboard manages store data and fulfilment. Revenue-style summaries are ca
 
 This README describes the supplied source. Verify the production build, authentication and service permissions with your own Firebase configuration before deployment.
 
-## 🤝 Contributing
-
-Issues and pull requests are welcome. Include a clear description and relevant verification, and keep local configuration out of commits.
-
 ## 📜 License & Credits
 
 The supplied **[LICENSE](LICENSE)** contains the MIT notice for the Codescandy dashboard template. Preserve that notice when redistributing the template and retain the applicable notices for third-party dependencies.
 
 ---
 
-<div align="center">
-
-**Dayani Super Center** · Store Administration Dashboard  
-Companion repository: **`DayaniSuperCenter-Android`**
-
+<h3>👨‍💻 Developer</h3>
+<p><strong>Vihanga Thathsara</strong></p>
+<a href="https://github.com/VihangaThathsara"><img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/vihanga-thathsara-00187543b/"><img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn"/></a>
 </div>
