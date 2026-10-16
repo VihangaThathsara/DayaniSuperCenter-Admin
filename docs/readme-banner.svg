@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">Dayani Super Center — Store administration dashboard</title>
+<desc id="desc">Products. Orders. Customers. One workspace. Built for the store behind the Android app.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111F"/><stop offset="1" stop-color="#13263D"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#90ACCC" stroke-width=".6" opacity=".09"/></pattern>
+</defs>
+<rect width="1280" height="400" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1278" height="398" rx="21" fill="url(#grid)" stroke="#27405A"/>
+<rect x="0" y="66" width="5" height="269" rx="2.5" fill="#60A5FA"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<rect x="68" y="61" width="28" height="4" rx="2" fill="#60A5FA"/>
+<text x="107" y="68" fill="#60A5FA" font-size="12" font-weight="700" letter-spacing="2.5">THE STORE, CONNECTED</text>
+<text x="65" y="158" fill="#F1F5F9" font-size="55" font-weight="700" letter-spacing="-2">Dayani Super Center</text>
+<text x="68" y="203" fill="#60A5FA" font-size="25" font-weight="600">Store administration dashboard</text>
+<text x="68" y="251" fill="#CAD7E7" font-size="18">Products. Orders. Customers. One workspace.</text>
+<text x="68" y="280" fill="#8DA5BF" font-size="16">Built for the store behind the Android app.</text>
+<rect x="68" y="314" width="143" height="34" rx="8" fill="#14243A" stroke="#28415A"/><text x="139.5" y="336" text-anchor="middle" fill="#DBEAFE" font-size="12" font-weight="700" letter-spacing="1">JAVASCRIPT</text><rect x="221" y="314" width="79" height="34" rx="8" fill="#14243A" stroke="#28415A"/><text x="260.5" y="336" text-anchor="middle" fill="#DBEAFE" font-size="12" font-weight="700" letter-spacing="1">VITE</text><rect x="310" y="314" width="118" height="34" rx="8" fill="#14243A" stroke="#28415A"/><text x="369.0" y="336" text-anchor="middle" fill="#DBEAFE" font-size="12" font-weight="700" letter-spacing="1">FIREBASE</text>
+
+        <circle cx="1057" cy="202" r="158" fill="#173358" opacity=".62"/>
+        <circle cx="1057" cy="202" r="132" fill="none" stroke="#2D4F7B" stroke-dasharray="4 9"/>
+        <g transform="rotate(-5 1044 204)">
+          <rect x="899" y="93" width="302" height="218" rx="17" fill="#102138" stroke="#41617E" stroke-width="2"/>
+          <path d="M899 126 h302" stroke="#314762"/>
+          <circle cx="917" cy="110" r="3.5" fill="#5A718E"/>
+          <circle cx="931" cy="110" r="3.5" fill="#5A718E"/>
+          <circle cx="945" cy="110" r="3.5" fill="#5A718E"/>
+          <rect x="913" y="140" width="47" height="154" rx="7" fill="#182F49"/>
+          <rect x="923" y="153" width="27" height="4" rx="2" fill="#78A7D3"/>
+          <rect x="923" y="170" width="22" height="4" rx="2" fill="#526E8A"/>
+          <rect x="923" y="187" width="25" height="4" rx="2" fill="#526E8A"/>
+          <rect x="923" y="204" width="20" height="4" rx="2" fill="#526E8A"/>
+          <rect x="974" y="140" width="61" height="38" rx="7" fill="#21455C"/>
+          <rect x="1045" y="140" width="61" height="38" rx="7" fill="#263D62"/>
+          <rect x="1116" y="140" width="68" height="38" rx="7" fill="#21455C"/>
+          <rect x="985" y="150" width="17" height="6" rx="3" fill="#34D399"/>
+          <rect x="1056" y="150" width="17" height="6" rx="3" fill="#60A5FA"/>
+          <rect x="1127" y="150" width="17" height="6" rx="3" fill="#34D399"/>
+          <rect x="985" y="163" width="38" height="3" rx="1.5" fill="#6C8CA4"/>
+          <rect x="1056" y="163" width="38" height="3" rx="1.5" fill="#6C8CA4"/>
+          <rect x="1127" y="163" width="44" height="3" rx="1.5" fill="#6C8CA4"/>
+          <rect x="974" y="190" width="210" height="104" rx="9" fill="#182F49"/>
+          <path d="M988 273 h178 M988 247 h178 M988 220 h178" stroke="#2B4560"/>
+          <path d="m991 266 25-12 24 5 25-30 25 8 25-23 25 5 25-16" fill="none" stroke="#60A5FA" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+          <circle cx="1165" cy="203" r="5" fill="#A1CDFF"/>
+        </g>
+        <rect x="1118" y="287" width="87" height="42" rx="12" fill="#163F3A" stroke="#2C7461"/>
+        <path d="m1133 308 7 7 13-17" fill="none" stroke="#34D399" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="1163" y="304" width="27" height="4" rx="2" fill="#95CDBA"/>
+        <rect x="1163" y="313" width="19" height="3" rx="1.5" fill="#629F91"/>
+        
+</g>
+</svg>

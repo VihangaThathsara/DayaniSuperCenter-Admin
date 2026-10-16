@@ -1,0 +1,38 @@
+# Installed dependencies and build output
+node_modules/
+dist/
+.vite/
+coverage/
+.nyc_output/
+
+# Local Firebase configuration. Commit the example instead.
+/src/assets/js/firebase-config.js
+.env
+.env.*
+!.env.example
+*service-account*.json
+*serviceAccount*.json
+*firebase-adminsdk*.json
+*.pem
+*.p12
+
+# Logs and temporary files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+*.tsbuildinfo
+.firebase/
+.cache/
+
+# Editor, operating system and backup files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.zip
+*.7z

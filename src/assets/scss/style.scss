@@ -1,0 +1,14 @@
+
+@import "./icons";
+
+// Import Bootstrap functions first
+@import "bootstrap/scss/functions";
+
+// Override Bootstrap variables here
+@import "./variables";
+
+// Import Bootstrap
+@import "bootstrap/scss/bootstrap";
+
+// Custom styles
+@import "./custom";
